@@ -1,0 +1,8 @@
+I would like to Automate the task of writing on a piece of paper because writing a full essay can be really hard 
+on a piece of paper.
+I can do this by :
+1. Create the coding part of the machine
+-Ill render in some functions so that the robot can draw the letters
+-fill writing and movement functions
+2. Ill create the hardware part of it
+I DONT KNOW HOW TO WRITE THE CODE FOR this
